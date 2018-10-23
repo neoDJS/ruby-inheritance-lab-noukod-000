@@ -1,4 +1,4 @@
 class Student < User
-  attr_accessor 
+  attr_accessor
   def initialize()
 end
